@@ -1,6 +1,6 @@
 {
     "core": {
-        "version": "2.2.1.37683"
+        "version": "2.3.1.43352"
     },
     "opt": {
         "props": {
@@ -11,8 +11,10 @@
                 "ccu4",
                 "flash_64k",
                 "i2c",
+                "i2s",
                 "kit_xmc11_boot_001",
                 "led",
+                "low_power",
                 "mcu_gp",
                 "rtc",
                 "spi",
@@ -32,7 +34,7 @@
             "min_tools": "3.0.0",
             "template": {
                 "id": "mtb-template-cat3",
-                "version": "release-v1.0.0"
+                "version": "release-v1.2.1"
             }
         }
     }
